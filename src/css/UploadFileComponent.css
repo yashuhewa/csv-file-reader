@@ -1,0 +1,10 @@
+.upload-section {
+    padding: 30px;
+    border: cadetblue dashed 1px;
+}
+
+.upload-section .alert {
+    padding-top: 40px;
+    font-size: medium;
+    color: red;
+}
